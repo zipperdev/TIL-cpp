@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 4.0)
-project(study)
+project(TIL_cpp)
 
 set(CMAKE_CXX_STANDARD 20)
 
